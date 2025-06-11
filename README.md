@@ -7,4 +7,5 @@ Test for workflow 1
 
 re-subscribe
 
-Only workflow 3 and 1 is subscribed
+Only workflow 3 and 2 is subscribed
+Workflow 2 events were not received. 
